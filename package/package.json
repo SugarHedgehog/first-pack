@@ -1,0 +1,22 @@
+{
+  "name": "simple-math",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SugarHedgehog/first-pack.git"
+  },
+  "keywords": [
+    "mfp"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SugarHedgehog/first-pack/issues"
+  },
+  "homepage": "https://github.com/SugarHedgehog/first-pack#readme"
+}
